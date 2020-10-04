@@ -3,3 +3,5 @@
 ################################################################################
 
 /MarsRover.Console/obj
+/MarsRover.Entity/obj
+/MarsRover.Rover/obj
